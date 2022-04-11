@@ -1,7 +1,11 @@
 ---
 Summer internship application for goToAndPlay
 ---
+To see webpage:
+* Clone repository
+* Open src/index.html 
 
+---
 Task:
 Answer to given questions and post the video answer to a web page. No design expected.
 
